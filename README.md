@@ -42,7 +42,7 @@ Microsoft needs to identify high-performing movie genres that will maximize thei
    git clone https://github.com/nishmitha5/microsoft-movie-studio-analysis.git
 
 2. Navigate to the project directory:
-
+```bash
 cd microsoft-movie-studio-analysis
 
 3.Install the required dependencies:
