@@ -60,9 +60,9 @@ python data_preprocessing.py
 python results_visualization.py
 
 ## Results
-# Top Performing Genres: Action, Adventure, Comedy, and Animation.
-# Highest Box Office Year: 2016 had the highest total box office revenue, with Adventure, Animation, and Comedy genres leading the charts.
-# User Ratings: Animation, Documentary, and Fantasy received the highest average ratings.
+1. Top Performing Genres: Action, Adventure, Comedy, and Animation.
+2. Highest Box Office Year: 2016 had the highest total box office revenue, with Adventure, Animation, and Comedy genres leading the charts.
+3. User Ratings: Animation, Documentary, and Fantasy received the highest average ratings.
 These insights provide Microsoft with a strategic advantage in producing high-grossing, popular movies​(Final_Microsoftmovies_p…).
 
 ## Contributing
