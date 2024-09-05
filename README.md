@@ -42,23 +42,23 @@ Microsoft needs to identify high-performing movie genres that will maximize thei
    git clone https://github.com/nishmitha5/microsoft-movie-studio-analysis.git
 
 2. Navigate to the project directory:
-```bash
-cd microsoft-movie-studio-analysis
+   ```bash
+   cd microsoft-movie-studio-analysis
 
 3. Install the required dependencies:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 1. Load the datasets from IMDb and Box Office Mojo.
 2. Run the data cleaning and preprocessing script:
-```bash
-python data_preprocessing.py
+   ```bash
+   python data_preprocessing.py
 
 3. Visualize the results using the results_visualization.py script:
-```bash
-python results_visualization.py
-
+   ```bash
+   python results_visualization.py
+ 
 ## Results
 1. Top Performing Genres: Action, Adventure, Comedy, and Animation.
 2. Highest Box Office Year: 2016 had the highest total box office revenue, with Adventure, Animation, and Comedy genres leading the charts.
