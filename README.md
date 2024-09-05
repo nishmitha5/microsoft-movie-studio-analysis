@@ -45,18 +45,18 @@ Microsoft needs to identify high-performing movie genres that will maximize thei
 ```bash
 cd microsoft-movie-studio-analysis
 
-3.Install the required dependencies:
-
+3. Install the required dependencies:
+```bash
 pip install -r requirements.txt
 
 ## Usage
 1. Load the datasets from IMDb and Box Office Mojo.
 2. Run the data cleaning and preprocessing script:
-
+```bash
 python data_preprocessing.py
 
 3. Visualize the results using the results_visualization.py script:
-
+```bash
 python results_visualization.py
 
 ## Results
